@@ -1,0 +1,16 @@
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.pdb
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.exe
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.pdb
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\market.csv
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\prabhakar\documents\visual studio 2017\Projects\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.csprojResolveAssemblyReference.cache
